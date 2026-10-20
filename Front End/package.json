@@ -24,7 +24,7 @@
     "@react-three/drei": "^9.121.3",
     "@react-three/fiber": "^8.17.12",
     "aceternity-ui": "^0.2.2",
-    "axios": "^1.7.7",
+    "axios": "^1.20.0",
     "canvas-confetti": "^1.9.3",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.1",
